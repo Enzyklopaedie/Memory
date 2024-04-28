@@ -1,0 +1,21 @@
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\bin\Debug\Memory.exe.config
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\bin\Debug\Memory.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\bin\Debug\Memory.pdb
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\obj\Debug\Memory.Form1.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\obj\Debug\Memory.exe
+H:\Klasse TG11_1\IT Software\Projekte mit SieScharp\Memory\Memory\obj\Debug\Memory.pdb
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\obj\Debug\Memory.Form1.resources
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\pomme\Downloads\Projekte mit SieScharp(3)\Memory\Memory\obj\Debug\Memory.pdb
